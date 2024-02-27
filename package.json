@@ -1,0 +1,18 @@
+{
+  "name": "api-rest-express-mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Treinamento Alura",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
